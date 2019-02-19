@@ -1,7 +1,7 @@
 # A Dependency Parser for the Maltese Language using Deep Neural Networks
 The dissertation and research for Masters in Artificial Intelligence, University of Malta
 
-## H2 Abstract
+## Abstract
 Tasks such as information retrieval, sentiment analysis and question answering require the processing of text analysis and natural language processing. Sentence parsing is one of the tasks performed in NLP to analyse the grammar structure of a sentence, with the aim of determining the relationships between the words in a sentence.
 
 Whilst there are several parsers for many European languages, Maltese remains a low-resourced and low-researched language and currently there are no parsers for the Maltese language. This work investigates computational parsing of Maltese by using novel Deep Learning and source bootstrapping techniques, with the aim of contributing not only to the increase in computational resources for Maltese, but also to dependency parsing. 
